@@ -5,3 +5,4 @@ Change 1:for login feature for WI1.
 Change 2: for bug1 fix
 
 Change 3: for bug2 fix
+ Change 7: local repo to remote repo
