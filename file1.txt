@@ -6,3 +6,4 @@ Change 2: for bug1 fix
 
 Change 3: for bug2 fix
  Change 7: local repo to remote repo
+ change 8: to test rebase by remote master CR2
